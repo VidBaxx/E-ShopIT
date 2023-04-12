@@ -4,7 +4,7 @@ const Search = () => {
     return ( 
         <div className="searchBar">
             <div id="logoImg">
-            <img src={logo}/>
+            <img src={logo} alt="logo"/>
             </div>
             <div className="searchCont">
             <div id="search">
@@ -17,15 +17,15 @@ const Search = () => {
                         <option>Product</option> 
                     </select>
                 </label>
-                <button class="button">Search</button>
+                <button className="button">Search</button>
                 
             </div>
             <div className="topSearch">
-                    Top Searches :<a href="" className="topS">Phones</a>
-                    <a href="" className="topS">bags</a>
-                    <a href="" className="topS">laptop</a>
-                    <a href="" className="topS">plates</a>
-                    <a href="" className="topS">cams</a>
+                    Top Searches :<a href="/" className="topS">Phones</a>
+                    <a href="/" className="topS">bags</a>
+                    <a href="/" className="topS">laptop</a>
+                    <a href="/" className="topS">plates</a>
+                    <a href="/" className="topS">cams</a>
                 </div>
                 </div>
             <div id="cart">
