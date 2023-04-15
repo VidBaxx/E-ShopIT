@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './Home';
-
+import SellerIn from './seller Acc/seller';
 
 
 function App() {
@@ -12,8 +12,7 @@ function App() {
    return (
     
     <div className="App">
-      <Home/>
-     
+      <SellerIn/>
       
 
     </div>
