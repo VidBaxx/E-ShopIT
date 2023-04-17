@@ -2,9 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './App.css';
 import Home from './Home';
-
 import SellerIn from './seller Acc/seller';
-
 import Login from './pages/auth/Login';
 import Profile from './profile/Profile';
 import Signin from './pages/auth/Signin';
@@ -16,14 +14,13 @@ function App() {
    return (
     
     <div className="App">
-
-      {/* <SellerIn/> */}
       <Router>
         <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path='/profile' element={<Profile/>} />
         <Route path='/signin' element ={<Signin/>} />
+        <Route path='/seller' element={<SellerIn/>}/>
       </Routes>
       </Router>
 
