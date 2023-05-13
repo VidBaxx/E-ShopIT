@@ -2,10 +2,10 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './App.css';
 import Home from './Home';
-import SellerIn from './seller Acc/seller';
 import Login from './pages/auth/Login';
 import Profile from './profile/Profile';
 import Signin from './pages/auth/Signin';
+import SellerIn from './seller Acc/seller';
 
 
 

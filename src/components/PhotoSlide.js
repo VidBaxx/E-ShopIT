@@ -36,8 +36,86 @@ export default function Slides() {
             </div>
             <div className="ShowSlide">
                 {arr}
+                <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
             </div>
-           
+
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+
+            <div className="product">
+            <img src="/images/iphone-12.jpg" alt="phone" /> 
+            <h3>Item: </h3>
+            <h3>Desc: </h3>
+            <h3>Price:</h3>
+            <h3>id:</h3>
+            </div>
+
+
+            </div>
+         
         </div>
      );
 }
